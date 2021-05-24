@@ -22,3 +22,13 @@ flutter:
 
   assets:
   - images/
+
+  fonts:
+    - family: DancingScript
+      fonts:
+        - asset: fonts/DancingScript-Regular.ttf
+    - family: Lato
+      fonts:
+        - asset: fonts/Lato-Regular.ttf
+        - asset: fonts/Lato-Bold.ttf
+          weight: 700
